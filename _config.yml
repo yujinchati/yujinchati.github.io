@@ -41,3 +41,6 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+url: "http://yujinchati.github.io"
+baseurl: "my-baseurl"
