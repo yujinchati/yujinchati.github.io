@@ -43,4 +43,6 @@ plugins:
 #  - jekyll-feed
 
 url: "http://yujinchati.github.io"
-baseurl: "my-baseurl"
+baseurl: ""
+
+
